@@ -5,6 +5,7 @@
 ### Cleanup
  * Removed the deprecated crypto.NewSHA256Signer function.
  * Finish removing the `LogMetadata.GetUnsequencedCounts()` method.
+ * Removed `TrillianLog.GetLeavesByHash` API.
 
 ## v1.3.13
 [Published 2021-02-16](https://github.com/google/trillian/releases/tag/v1.3.13)
